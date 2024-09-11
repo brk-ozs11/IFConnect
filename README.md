@@ -1,14 +1,14 @@
 # **IFConnect**
 
-//<img src="/images/512-mac.png" alt="App Icon" width="64" height="64">
+<img src="/images/512-mac.png" alt="App Icon" width="64" height="64">
 
-**Touch on the Power**
+**Flight Panel**
 
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-Mac Circle is a macOS app developed with SwiftUI.
+IFConnect is Infinite Flight Thirdpart Flight Panel Application
 
 ## Overview
 
