@@ -1,6 +1,6 @@
 # **IFConnect**
 
-<img src="/images/512-mac.png" alt="App Icon" width="64" height="64">
+<img src="Images/IFConnect_logo.png" alt="App Icon" width="64" height="64">
 
 **Flight Panel**
 
