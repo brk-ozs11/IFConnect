@@ -14,7 +14,7 @@ IFConnect is Infinite Flight Thirdparty Flight Panel Application
 
 ### Menu Bar Extra
 
-![Images](images/MacCircle-Grid-Schema.jpeg)
+![Images](Images/IFConnect-Grid-Schema.jpg)
 
 
 
