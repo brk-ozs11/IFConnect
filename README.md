@@ -26,7 +26,7 @@ Please don't hesitate to reach out via the [GitHub Issues page](https://github.c
 
 ---
 
-## ✈️ **Supported Aircraft**
+## ✈️ **Supported Aircrafts**
 
 IFConnect currently supports the following aircraft models:
 
