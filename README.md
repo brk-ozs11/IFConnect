@@ -2,12 +2,12 @@
 
 <img src="Images/IFConnect_logo.png" alt="App Icon" width="64" height="64">
 
-**Flight Panel**
+**Flight Panel for Enthusiasts** ✈️
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-IFConnect is an Infinite Flight third-party flight panel application.
+IFConnect is a robust and intuitive third-party flight panel application designed exclusively for Infinite Flight. Whether you're cruising at 35,000 feet or executing a precise approach, IFConnect provides real-time flight control at your fingertips. 🚀
 
 ## Overview
 
@@ -19,11 +19,11 @@ IFConnect is an Infinite Flight third-party flight panel application.
 
 ---
 
-## Supported Aircraft
+## ✈️ **Supported Aircraft**
 
 IFConnect currently supports the following aircraft models:
 
-### **Airbus:**
+### **Airbus Series:**
 - **Airbus A220-300**
 - **Airbus A318**
 - **Airbus A319**
@@ -34,7 +34,7 @@ IFConnect currently supports the following aircraft models:
 - **Airbus A350**
 - **Airbus A380**
 
-### **Boeing:**
+### **Boeing Series:**
 - **Boeing 737-700**
 - **Boeing 737-800**
 - **Boeing 737-900**
@@ -53,28 +53,28 @@ IFConnect currently supports the following aircraft models:
 - **Boeing 787-9**
 - **Boeing 787-10**
 
-### **Embraer:**
+### **Embraer Series:**
 - **E175**
 - **E190**
 
 ---
 
-## Upcoming Features
+## 🚀 **Upcoming Features**
 
-> [!IMPORTANT]
+> **Exciting News**  
 We are excited to announce that a **Windows version** of IFConnect is currently under development and will be available soon. Stay tuned for updates!
 In the meantime, follow this repository to get notified of new releases and features.
 
 
 ---
 
-## Acknowledgments
+## 💼 **Acknowledgments**
 
 This project utilizes the [Infinite Flight Connect framework](https://github.com/rollingonroad/InfiniteFlightConnect.git). A special thanks to the contributors of this framework for providing an essential tool that made the integration with Infinite Flight possible.
 
 ---
 
-## Installation
+## 🛠️ **Installation**
 
 To install IFConnect, follow these steps:
 
@@ -86,7 +86,9 @@ That's it! You can now launch Mac Circle from your Applications folder.
 
 ---
 
-## Support
+## ☕ **Support the Development**
+
+If you enjoy using IFConnect and want to support its continuous development, consider buying me a coffee. Every little bit helps to keep this project flying high! 🛫
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg)](https://www.buymeacoffee.com/berkozus117)
 
@@ -94,10 +96,11 @@ That's it! You can now launch Mac Circle from your Applications folder.
 
 ---
 
-## License
+## 📝 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
 ---
 
-**Copyright © 2024 IFConnect**
+**© 2024 IFConnect. All Rights Reserved.**
