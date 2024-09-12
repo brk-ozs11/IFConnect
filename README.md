@@ -96,11 +96,5 @@ If you enjoy using IFConnect and want to support its continuous development, con
 
 ---
 
-## 📝 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
----
 
 **© 2024 IFConnect. All Rights Reserved.**
