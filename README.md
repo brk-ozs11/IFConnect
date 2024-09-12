@@ -89,7 +89,7 @@ To install IFConnect, follow these steps:
 2. Once downloaded, locate the `.app` file in your Downloads folder.
 3. Drag the `.app` file into your Applications folder to install it.
 
-That's it! You can now launch Mac Circle from your Applications folder.
+That's it! You can now launch IFConnect from your Applications folder.
 
 ---
 
