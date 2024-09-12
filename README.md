@@ -62,7 +62,9 @@ IFConnect currently supports the following aircraft models:
 ## Upcoming Features
 
 [!IMPORTANT]
-We are excited to announce that a **Windows version** of IFConnect is currently under development and will be available soon. Stay tuned for updates! In the meantime, follow this repository to get notified of new releases and features.
+We are excited to announce that a **Windows version** of IFConnect is currently under development and will be available soon. Stay tuned for updates!
+
+In the meantime, follow this repository to get notified of new releases and features.
 
 
 ---
