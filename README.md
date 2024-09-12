@@ -7,34 +7,55 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-IFConnect is a third-party flight panel application designed for Infinite Flight, providing an intuitive interface for flight controls and real-time status monitoring.
+IFConnect is an Infinite Flight third-party flight panel application.
 
 ## Overview
 
-![IFConnect Layout](Images/IFConnect-Grid-Schema.jpg)
-
-IFConnect offers a comprehensive panel layout for managing various aircraft systems like engines, electrical systems, pushback, lights, and more.
-
-## Demo
-
-![IFConnect Demo](Images/IFConnect-demo.gif)
+![Images](Images/IFConnect-Grid-Schema.jpg)
 
 ### Trailer
 
-[![Uygulama Trailer](https://img.youtube.com/vi/3jwPE93IAsc/maxresdefault.jpg)](https://youtu.be/3jwPE93IAsc?si=IFm4ElBwNekXDAif)
+[![App Trailer](https://img.youtube.com/vi/3jwPE93IAsc/maxresdefault.jpg)](https://youtu.be/3jwPE93IAsc)
 
 ---
 
-## Features
+## Supported Aircraft
 
-- **Connection Status**: Real-time connection feedback.
-- **Engines Panel**: Monitor and control engine parameters.
-- **Electrical Panel**: Manage essential electrical systems like main battery and APU.
-- **Pushback Panel**: Controls for ground handling and parking brakes.
-- **Lights Panel**: Easy management of aircraft lighting.
-- **Cockpit Sounds**: Real-time alerts and callouts for V-speeds and terrain warnings.
-- **Cabin Panel**: Control seatbelt and no-smoking signs.
-- **Spoilers & Flaps**: Control aerodynamic surfaces for landing and takeoff configurations.
+IFConnect currently supports the following aircraft models:
+
+### **Airbus:**
+- **Airbus A220-300**
+- **Airbus A318**
+- **Airbus A319**
+- **Airbus A320**
+- **Airbus A321**
+- **Airbus A330-300**
+- **Airbus A330-900**
+- **Airbus A350**
+- **Airbus A380**
+
+### **Boeing:**
+- **Boeing 737-700**
+- **Boeing 737-800**
+- **Boeing 737-900**
+- **Boeing 747-200**
+- **Boeing 747-400**
+- **Boeing 747**
+- **Boeing 747-SCA**
+- **Boeing 747-SOFIA**
+- **Boeing 747-AF1**
+- **Boeing 757-200**
+- **Boeing 777-200ER**
+- **Boeing 777-200LR**
+- **Boeing 777-300ER**
+- **Boeing 777F**
+- **Boeing 787-8**
+- **Boeing 787-9**
+- **Boeing 787-10**
+
+### **Embraer:**
+- **E175**
+- **E190**
 
 ---
 
@@ -42,17 +63,15 @@ IFConnect offers a comprehensive panel layout for managing various aircraft syst
 
 To install IFConnect, follow these steps:
 
-1. [Download the latest release](https://github.com/brk-ozs11/Mac-Circle/releases/latest) of IFConnect.
-2. Locate the `.app` file in your Downloads folder.
+1. [Download the latest release](https://github.com/brk-ozs11/Mac-Circle/releases/latest) of Mac Circle.
+2. Once downloaded, locate the `.app` file in your Downloads folder.
 3. Drag the `.app` file into your Applications folder to install it.
 
-Once installed, you can launch IFConnect from your Applications folder.
+That's it! You can now launch Mac Circle from your Applications folder.
 
 ---
 
 ## Support
-
-If you enjoy using IFConnect and would like to support future development:
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg)](https://www.buymeacoffee.com/berkozus117)
 
@@ -62,10 +81,8 @@ If you enjoy using IFConnect and would like to support future development:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Copyright © 2024 IFConnect
-
-_Last Updated: September 26, 2023_
+**Copyright © 2024 IFConnect**
