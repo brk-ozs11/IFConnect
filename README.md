@@ -20,7 +20,8 @@ IFConnect is Infinite Flight Thirdparty Flight Panel Application
 
 ### Trailer
 
-[![Uygulama Trailer](https://img.youtube.com/vi/NmA8Nm9CxFo/hqdefault.jpg)](https://youtu.be/NmA8Nm9CxFo?si=K5k87iJdCOs8yqHk)
+[![Uygulama Trailer](https://img.youtube.com/vi/NmA8Nm9CxFo/maxresdefault.jpg)](https://youtu.be/NmA8Nm9CxFo?si=K5k87iJdCOs8yqHk)
+
 
 
 ---
