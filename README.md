@@ -85,4 +85,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Acknowledgments
+
+This project utilizes the [Infinite Flight Connect framework](https://github.com/rollingonroad/InfiniteFlightConnect.git). A special thanks to the contributors of this framework for providing an essential tool that made the integration with Infinite Flight possible.
+
+---
+
 **Copyright © 2024 IFConnect**
+
