@@ -59,6 +59,20 @@ IFConnect currently supports the following aircraft models:
 
 ---
 
+## Upcoming Features
+
+We are excited to announce that a **Windows version** of IFConnect is currently under development and will be available soon. Stay tuned for updates!
+
+In the meantime, follow this repository to get notified of new releases and features.
+
+---
+
+## Acknowledgments
+
+This project utilizes the [Infinite Flight Connect framework](https://github.com/rollingonroad/InfiniteFlightConnect.git). A special thanks to the contributors of this framework for providing an essential tool that made the integration with Infinite Flight possible.
+
+---
+
 ## Installation
 
 To install IFConnect, follow these steps:
@@ -85,11 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Acknowledgments
-
-This project utilizes the [Infinite Flight Connect framework](https://github.com/rollingonroad/InfiniteFlightConnect.git). A special thanks to the contributors of this framework for providing an essential tool that made the integration with Infinite Flight possible.
-
----
-
 **Copyright © 2024 IFConnect**
-
