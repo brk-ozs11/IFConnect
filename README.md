@@ -92,7 +92,7 @@ If you enjoy using IFConnect and want to support its continuous development, con
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg)](https://www.buymeacoffee.com/berkozus117)
 
-<img src="images/bmc_qr.png" alt="QR Code" width="100">
+<img src="Images/bmc_qr.png" alt="QR Code" width="100">
 
 ---
 
