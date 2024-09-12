@@ -9,14 +9,13 @@
 
 IFConnect is a robust and intuitive third-party flight panel application designed exclusively for Infinite Flight. Whether you're cruising at 35,000 feet or executing a precise approach, IFConnect provides real-time flight control at your fingertips. 🚀
 
-
-> ⚠️ **Note:** IFConnect is currently in its beta phase. As such, there may be bugs or unexpected behavior in certain scenarios. We encourage users to share any issues they encounter and submit feature requests. Your feedback is invaluable in helping us improve the application. 
-
-Please don't hesitate to reach out via the [GitHub Issues page](https://github.com/brk-ozs11/IFConnect/issues) or by contacting me directly on [LinkedIn](https://www.linkedin.com/in/berk-özüş-053188251/).
-
 ## Overview
 
 ![Images](Images/IFConnect-Grid-Schema.jpg)
+
+> ⚠️ **Note:** IFConnect is currently in its beta phase. As such, there may be bugs or unexpected behavior in certain scenarios. We encourage users to share any issues they encounter and submit feature requests. Your feedback is invaluable in helping us improve the application. 
+Please don't hesitate to reach out via the [GitHub Issues page](https://github.com/brk-ozs11/IFConnect/issues) or by contacting me directly on [LinkedIn](https://www.linkedin.com/in/berk-özüş-053188251/).
+
 
 ## 🎥 **Trailer**
 
