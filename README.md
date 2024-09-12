@@ -13,7 +13,7 @@ IFConnect is a robust and intuitive third-party flight panel application designe
 
 ![Images](Images/IFConnect-Grid-Schema.jpg)
 
-### Trailer
+## 🎥 **Trailer**
 
 [![App Trailer](https://img.youtube.com/vi/3jwPE93IAsc/maxresdefault.jpg)](https://youtu.be/3jwPE93IAsc)
 
