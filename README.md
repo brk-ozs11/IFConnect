@@ -66,6 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Copyright © 2024 IFConnec
+Copyright © 2024 IFConnect
 
 _Last Updated: September 26, 2023_
