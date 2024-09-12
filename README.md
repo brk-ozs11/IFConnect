@@ -85,7 +85,7 @@ This project utilizes the [Infinite Flight Connect framework](https://github.com
 
 To install IFConnect, follow these steps:
 
-1. [Download the latest release](https://github.com/brk-ozs11/Mac-Circle/releases/latest) of Mac Circle.
+1. [Download the latest release](https://github.com/brk-ozs11/Mac-Circle/releases/latest) of IFConnect.
 2. Once downloaded, locate the `.app` file in your Downloads folder.
 3. Drag the `.app` file into your Applications folder to install it.
 
