@@ -15,10 +15,13 @@ IFConnect is a third-party flight panel application designed for Infinite Flight
 
 IFConnect offers a comprehensive panel layout for managing various aircraft systems like engines, electrical systems, pushback, lights, and more.
 
+## Demo
+
+![IFConnect Demo](Images/IFConnect-demo.gif)
 
 ### Trailer
 
-[![Uygulama Trailer](https://img.youtube.com/vi/NmA8Nm9CxFo/maxresdefault.jpg)](https://youtu.be/NmA8Nm9CxFo?si=K5k87iJdCOs8yqHk)
+[![Uygulama Trailer](https://img.youtube.com/vi/3jwPE93IAsc/maxresdefault.jpg)](https://youtu.be/3jwPE93IAsc?si=IFm4ElBwNekXDAif)
 
 ---
 
@@ -60,5 +63,9 @@ If you enjoy using IFConnect and would like to support future development:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Copyright © 2024 IFConnec
 
 _Last Updated: September 26, 2023_
