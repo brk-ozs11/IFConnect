@@ -12,8 +12,6 @@ IFConnect is Infinite Flight Thirdparty Flight Panel Application
 
 ## Overview
 
-### Menu Bar Extra
-
 ![Images](Images/IFConnect-Grid-Schema.jpg)
 
 
@@ -27,31 +25,13 @@ IFConnect is Infinite Flight Thirdparty Flight Panel Application
 ---
 
 
-### Light Mode
 
-![App Screenshot](images/lightMode.jpg)
-
-
-
-### Dark Mode
-
-Mac Circle supports dark mode.
-
-
-![App Screenshot](images/darkMode.jpg)
-
----
-
-### Popover Informations
-
-
-![App video](images/Popover.mov)
 
 
 
 ## Installation
 
-To install Mac Circle, follow these steps:
+To install IFConnect, follow these steps:
 
 1. [Download the latest release](https://github.com/brk-ozs11/Mac-Circle/releases/latest) of Mac Circle.
 2. Once downloaded, locate the `.app` file in your Downloads folder.
