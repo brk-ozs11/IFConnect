@@ -93,6 +93,21 @@ That's it! You can now launch IFConnect from your Applications folder.
 
 ---
 
+## ❗️ **Important: How to Open IFConnect on macOS**
+
+Since IFConnect is currently in beta, macOS may block the app because it is from an unidentified developer. Follow these steps to open it:
+
+1. **Download and install IFConnect** on your Mac.
+2. **Try to open the app**, and you will likely see a message saying, "IFConnect can't be opened because it is from an unidentified developer."
+3. Go to **System Preferences** > **Security & Privacy**.
+4. In the **General** tab, you will see a message at the bottom about IFConnect being blocked.
+5. Click **Open Anyway** to allow the app to run.
+6. The app will ask for confirmation again; choose **Open** to launch it.
+
+After following these steps, IFConnect should open without any issues.
+
+---
+
 ## ☕ **Support the Development**
 
 If you enjoy using IFConnect and want to support its continuous development, consider buying me a coffee. Every little bit helps to keep this project flying high! 🛫
