@@ -121,6 +121,26 @@ Ensuring this setting is enabled is essential for IFConnect to communicate with 
 
 ---
 
+## ❗️ **Important: Entering Your Device's IP Address for IFConnect**
+
+To connect IFConnect to Infinite Flight, you will need to enter the IP address of the device running Infinite Flight. Follow these steps to find the IP address on iOS and Android:
+
+### On iOS:
+1. Open **Settings** on your iPhone or iPad.
+2. Go to **Wi-Fi**, and tap the **i** icon next to the Wi-Fi network you are connected to.
+3. You will see the **IP Address** under the "IPV4 Address" section.
+
+### On Android:
+1. Open **Settings** on your Android device.
+2. Go to **Network & Internet** or **Wi-Fi**, depending on your version.
+3. Tap on the **Wi-Fi** network you are connected to.
+4. Look for the **IP Address** under the network details.
+
+Once you have found your device's IP address, open IFConnect and enter the IP in the **Connection Settings** to connect to Infinite Flight.
+
+---
+
+
 ## ☕ **Support the Development**
 
 If you enjoy using IFConnect and want to support its continuous development, consider buying me a coffee. Every little bit helps to keep this project flying high! 🛫
