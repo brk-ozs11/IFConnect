@@ -108,6 +108,19 @@ After following these steps, IFConnect should open without any issues.
 
 ---
 
+## ❗️ **Important: Setting Up Infinite Flight for IFConnect**
+
+To use IFConnect with Infinite Flight, follow these steps to enable Infinite Flight Connect:
+
+1. **Open Infinite Flight** on your device.
+2. Go into **Settings** > **General**.
+3. Scroll towards the bottom and look for **'Enable Infinite Flight Connect'**.
+4. **Check the box** if it is not checked already.
+
+Ensuring this setting is enabled is essential for IFConnect to communicate with Infinite Flight.
+
+---
+
 ## ☕ **Support the Development**
 
 If you enjoy using IFConnect and want to support its continuous development, consider buying me a coffee. Every little bit helps to keep this project flying high! 🛫
