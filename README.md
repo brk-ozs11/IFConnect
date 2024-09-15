@@ -81,9 +81,9 @@ This project utilizes the [Infinite Flight Connect framework](https://github.com
 
 ---
 
-## ⚠️ **Attention: IFConnect Version**
+## 🎉 **Good News: IFConnect Version**
 
-**IFConnect currently works exclusively on** **Apple Silicon** **Macs. A version compatible with Intel-based Macs will be released soon. Thank you for your understanding and patience.**
+**IFConnect is now compatible with** **Intel-based Macs** **starting from version** **v1.0.0-intel-macOS**. We appreciate your patience and thank you for your support!
 
 ---
 
