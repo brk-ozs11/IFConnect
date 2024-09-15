@@ -22,7 +22,7 @@ Please don't hesitate to reach out via the [GitHub Issues page](https://github.c
 
 ## 🎥 **Trailer**
 
-![App video](Assets/IFConnect_trailer.mp4)
+![App video](Assets/IFConnect_trailer.mov)
 
 ---
 
@@ -87,9 +87,9 @@ This project utilizes the [Infinite Flight Connect framework](https://github.com
 
 ---
 
-## ❗️ **Important: "IFConnect can’t be opened because Apple cannot check it for malicious software." Error Fix**
+## 💡 **Error Tutorial: "IFConnect can’t be opened because Apple cannot check it for malicious software." Error Fix**
 
-![Tutorial](Assets/error_tutorial.mp4)
+![Tutorial](Assets/error_tutorial.mov)
 
 ---
 
