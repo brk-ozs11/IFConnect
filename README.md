@@ -1,6 +1,6 @@
 # **IFConnect**
 
-<img src="Images/IFConnect_logo.png" alt="App Icon" width="64" height="64">
+<img src="Assets/IFConnect_logo.png" alt="App Icon" width="64" height="64">
 
 **Flight Panel for Enthusiasts** ✈️
 
@@ -11,7 +11,7 @@ IFConnect is a robust and intuitive third-party flight panel application designe
 
 ## Overview
 
-![Images](Images/IFConnect-Grid-Schema.jpg)
+![Images](Assets/IFConnect-Grid-Schema.jpg)
 
 > ⚠️ **Note:** IFConnect is currently in its beta phase. As such, there may be bugs or unexpected behavior in certain scenarios. We encourage users to share any issues they encounter and submit feature requests. Your feedback is invaluable in helping us improve the application. 
 Please don't hesitate to reach out via the [GitHub Issues page](https://github.com/brk-ozs11/IFConnect/issues) or by contacting me directly on [LinkedIn](https://www.linkedin.com/in/berk-özüş-053188251/).
@@ -154,7 +154,7 @@ If you enjoy using IFConnect and want to support its continuous development, con
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg)](https://www.buymeacoffee.com/berkozus117)
 
-<img src="Images/bmc_qr.png" alt="QR Code" width="100">
+<img src="Assets/bmc_qr.png" alt="QR Code" width="100">
 
 ---
 
