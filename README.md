@@ -22,7 +22,7 @@ Please don't hesitate to reach out via the [GitHub Issues page](https://github.c
 
 ## 🎥 **Trailer**
 
-[![App Trailer](https://img.youtube.com/vi/3jwPE93IAsc/maxresdefault.jpg)](https://youtu.be/3jwPE93IAsc)
+![App video](Assets/IFConnect_trailer.mp4)
 
 ---
 
