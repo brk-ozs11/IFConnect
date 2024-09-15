@@ -23,7 +23,7 @@ Please don't hesitate to reach out via the [GitHub Issues page](https://github.c
 ## 🎥 **Trailer**
 
 ![App video](Assets/IFConnect_trailer.mov)
-
+ 
 ---
 
 ## ✈️ **Supported Aircrafts**
