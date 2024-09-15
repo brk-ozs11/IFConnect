@@ -85,6 +85,11 @@ This project utilizes the [Infinite Flight Connect framework](https://github.com
 
 **IFConnect currently works exclusively on** **Apple Silicon** **Macs. A version compatible with Intel-based Macs will be released soon. Thank you for your understanding and patience.**
 
+---
+
+## ❗️ **Important: "IFConnect can’t be opened because Apple cannot check it for malicious software." Error Fix**
+
+![Tutorial](Assets/error_tutorial.mp4)
 
 ---
 
