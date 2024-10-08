@@ -19,7 +19,7 @@ IFConnect is a robust and intuitive third-party flight panel application designe
 Please don't hesitate to reach out via the [GitHub Issues page](https://github.com/brk-ozs11/IFConnect/issues) or by contacting me directly on [LinkedIn](https://www.linkedin.com/in/berk-özüş-053188251/).
 
 
-<img src="Assets/PFD.jpg" alt="" width="877" height="819">
+<img src="Assets/PFD.jpg" alt="" width="657.75" height="614.25">
 > ⚠️ **Note:**
 > To set the v1 speed, enter the value and press the setbutton, this sends the v1 speed to the autopilot panel in infinite flight and is marked in the PFD.
 
