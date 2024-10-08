@@ -12,7 +12,7 @@ IFConnect is a robust and intuitive third-party flight panel application designe
 ## Overview
 
 ![Images](Assets/IFConnect-Grid-Schema.jpg)
-![Images](Assets/IFConnect MacOS.jpg)
+![Images](Assets/IFConnect-MacOS.jpg)
 
 
 > ⚠️ **Note:** IFConnect is currently in its beta phase. As such, there may be bugs or unexpected behavior in certain scenarios. We encourage users to share any issues they encounter and submit feature requests. Your feedback is invaluable in helping us improve the application. 
