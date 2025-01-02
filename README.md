@@ -50,6 +50,7 @@ IFConnect currently supports the following aircraft models:
 ### **Boeing Series:**
 - **Boeing 737-700**
 - **Boeing 737-800**
+- **Boeing 737-8 MAX**
 - **Boeing 737-900**
 - **Boeing 747-200**
 - **Boeing 747-400**
