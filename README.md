@@ -156,4 +156,4 @@ If you enjoy using IFConnect and want to support its continuous development, con
 ---
 
 
-**© 2024 IFConnect. All Rights Reserved.**
+**© 2025 IFConnect. All Rights Reserved.**
